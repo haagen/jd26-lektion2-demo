@@ -8,3 +8,4 @@ Vad bra!
 
 Idag snöar det inte! 
 
+Detta har jag gjort på min bug1 - branch!
